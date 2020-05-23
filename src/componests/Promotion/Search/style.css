@@ -1,0 +1,17 @@
+.promotion-search_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.promotion-search__input{
+    display: flex;
+    height: 42px;
+    border: 1px solid #CCC;
+    border-radius:4px ;
+    width: 100%;
+    margin-bottom: 20px;
+    
+
+
+}
